@@ -3,6 +3,7 @@ Example Data Science Portfolio
 
 #Project 1: Classifier Project
 For a data science classifier project.
+![]https://github.com/LeakeyMokaya/Leakey_Mokaya_Portfolio/blob/main/images/pexels-cottonbro-5473951.jpg
 
 #Project 2: Regression Project
 For a data science regression project.

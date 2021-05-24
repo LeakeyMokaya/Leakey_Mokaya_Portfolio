@@ -16,3 +16,6 @@ Example Data Science Portfolio
 
 #Project 5: NLP Project
 *For an NLP project.
+
+#Project 6: Computer Vision Project
+*For an NLP project.

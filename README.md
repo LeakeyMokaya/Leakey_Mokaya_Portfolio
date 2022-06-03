@@ -1,5 +1,5 @@
 # Leakey_Mokaya_Portfolio
-Example Data Science Portfolio
+Data Science Portfolio
 
 # Project 1: Classifier Project
 

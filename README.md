@@ -77,3 +77,4 @@ In a data science portfolio, you can typically have several categories of projec
 This format provides a detailed overview of each project type, including its description, objectives, and the skills demonstrated, making it easily understandable for non-technical stakeholders.
 
 These project overviews and skills learned demonstrate my proficiency in various data science techniques and methodologies, showcasing my ability to tackle diverse challenges and deliver impactful solutions.
+"# Leakey_Mokaya_Portfolio-" 
